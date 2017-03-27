@@ -1,6 +1,6 @@
 # Markdown Editor using React
 
-A web application for displaying users with the most Brownie points in the last 30 days. Written in React
+A web application for displaying users with the most Brownie points in the last 30 days. Written in React.
 
 ## Getting Started
 
